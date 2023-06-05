@@ -1,0 +1,1 @@
+SELECT prenom, nom, sexe, naissance, email FROM etudiants;
